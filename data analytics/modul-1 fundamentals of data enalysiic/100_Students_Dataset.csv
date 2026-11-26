@@ -1,0 +1,101 @@
+Student_ID,Full_Name,Gender,Age,Email,Phone_Number,Course,Semester,Admission_Date,City,Attendance_Percentage,CGPA,Grade,Scholarship,Fee_Status
+STU-2026001,Sai Kulkarni,Male,18,sai.kulkarni1@student.edu.in,+91 93864 46249,B.Com (Hons),Semester 1,2026-07-20,Bengaluru,70.1,6.82,B+ (Good),None,Partial
+STU-2026002,Ayaan Rao,Male,22,ayaan.rao2@student.edu.in,+91 72773 83328,B.Com (Hons),Semester 1,2026-07-11,Delhi NCR,86.7,8.01,A+ (Excellent),Merit Scholarship,Paid
+STU-2026003,Ananya Sen,Female,19,ananya.sen3@student.edu.in,+91 96462 53490,BCA,Semester 1,2026-07-10,Surat,90.5,8.87,A+ (Excellent),Merit Scholarship,Paid
+STU-2026004,Harsh Chaudhary,Male,19,harsh.chaudhary4@student.edu.in,+91 73654 63213,B.Tech Electronics,Semester 5,2024-07-15,Jaipur,89.5,8.89,A+ (Excellent),None,Paid
+STU-2026005,Aryan Pillai,Male,24,aryan.pillai5@student.edu.in,+91 88079 33428,B.Tech Computer Science,Semester 3,2025-07-13,Vadodara,91.6,7.24,A (Very Good),Merit Scholarship,Paid
+STU-2026006,Vihaan Khanna,Male,20,vihaan.khanna6@student.edu.in,+91 75932 84229,B.Tech Electronics,Semester 5,2024-07-14,Rajkot,64.7,7.91,A (Very Good),Need-Based Aid,Paid
+STU-2026007,Ananya Chauhan,Female,23,ananya.chauhan7@student.edu.in,+91 93259 62683,B.Sc Data Science,Semester 3,2025-07-22,Surat,80.2,7.34,A (Very Good),None,Pending
+STU-2026008,Abhishek Rathore,Male,22,abhishek.rathore8@student.edu.in,+91 76079 34129,B.Tech Electronics,Semester 3,2025-07-20,Vadodara,67.8,5.95,B (Average),None,Paid
+STU-2026009,Rudra Kulkarni,Male,19,rudra.kulkarni9@student.edu.in,+91 73625 69104,B.Tech Computer Science,Semester 3,2025-07-26,Surat,63.3,7.89,A (Very Good),Sports Quota,Partial
+STU-2026010,Arjun Pillai,Male,21,arjun.pillai10@student.edu.in,+91 94907 70623,B.Com (Hons),Semester 3,2025-07-15,Delhi NCR,95.3,8.66,A+ (Excellent),Sports Quota,Partial
+STU-2026011,Diya Khanna,Female,22,diya.khanna11@student.edu.in,+91 85506 29712,BCA,Semester 3,2025-07-12,Ahmedabad,82.6,9.05,O (Outstanding),Need-Based Aid,Paid
+STU-2026012,Pooja Khanna,Female,23,pooja.khanna12@student.edu.in,+91 72472 63784,B.Com (Hons),Semester 5,2024-07-23,Vadodara,85.6,8.53,A+ (Excellent),None,Paid
+STU-2026013,Dev Chauhan,Male,21,dev.chauhan13@student.edu.in,+91 90643 24701,B.Tech Electronics,Semester 1,2026-07-22,Rajkot,99.0,7.29,A (Very Good),Sports Quota,Paid
+STU-2026014,Vihaan Kumar,Male,25,vihaan.kumar14@student.edu.in,+91 79096 11106,MBA,Semester 1,2026-07-28,Bengaluru,99.0,7.53,A (Very Good),Merit Scholarship,Paid
+STU-2026015,Ankit Patel,Male,20,ankit.patel15@student.edu.in,+91 89029 43346,B.Com (Hons),Semester 1,2026-07-19,Rajkot,99.2,6.96,B+ (Good),None,Paid
+STU-2026016,Nisha Agarwal,Female,22,nisha.agarwal16@student.edu.in,+91 86762 15222,BCA,Semester 1,2026-07-10,Rajkot,67.3,8.18,A+ (Excellent),None,Partial
+STU-2026017,Gaurav Kulkarni,Male,21,gaurav.kulkarni17@student.edu.in,+91 84685 83464,B.Com (Hons),Semester 5,2024-07-13,Mumbai,97.9,6.71,B+ (Good),None,Paid
+STU-2026018,Rudra Desai,Male,21,rudra.desai18@student.edu.in,+91 73971 55543,BBA,Semester 3,2025-07-23,Bengaluru,83.4,8.32,A+ (Excellent),None,Paid
+STU-2026019,Vivaan Das,Male,18,vivaan.das19@student.edu.in,+91 90509 66869,BBA,Semester 3,2025-07-14,Surat,69.2,9.18,O (Outstanding),Merit Scholarship,Partial
+STU-2026020,Pallavi Dubey,Female,24,pallavi.dubey20@student.edu.in,+91 90483 61771,BCA,Semester 1,2026-07-23,Jaipur,72.6,8.96,A+ (Excellent),None,Paid
+STU-2026021,Tanvi Khanna,Female,22,tanvi.khanna21@student.edu.in,+91 86269 96655,B.Tech Computer Science,Semester 1,2026-07-10,Rajkot,81.4,8.01,A+ (Excellent),Sports Quota,Paid
+STU-2026022,Varun Pawar,Male,21,varun.pawar22@student.edu.in,+91 77611 24814,B.Tech Electronics,Semester 7,2023-07-11,Delhi NCR,86.0,9.52,O (Outstanding),Merit Scholarship,Paid
+STU-2026023,Siya Chaudhary,Female,23,siya.chaudhary23@student.edu.in,+91 76880 44571,BCA,Semester 3,2025-07-17,Bengaluru,91.1,8.15,A+ (Excellent),Merit Scholarship,Paid
+STU-2026024,Varun Pandey,Male,21,varun.pandey24@student.edu.in,+91 79153 75526,MBA,Semester 1,2026-07-10,Rajkot,94.3,7.62,A (Very Good),None,Paid
+STU-2026025,Kabir Banerjee,Male,21,kabir.banerjee25@student.edu.in,+91 89773 21443,BCA,Semester 1,2026-07-23,Pune,68.2,8.16,A+ (Excellent),Sports Quota,Paid
+STU-2026026,Kavya Sen,Female,21,kavya.sen26@student.edu.in,+91 97430 81061,B.Tech Computer Science,Semester 5,2024-07-14,Vadodara,66.4,7.64,A (Very Good),None,Pending
+STU-2026027,Karthik Singh,Male,18,karthik.singh27@student.edu.in,+91 80987 78703,B.Com (Hons),Semester 1,2026-07-15,Jaipur,74.2,7.7,A (Very Good),Merit Scholarship,Paid
+STU-2026028,Tara Jain,Female,21,tara.jain28@student.edu.in,+91 74557 30557,BBA,Semester 5,2024-07-14,Pune,77.9,8.75,A+ (Excellent),None,Paid
+STU-2026029,Neha Dubey,Female,22,neha.dubey29@student.edu.in,+91 97126 39375,BBA,Semester 1,2026-07-17,Ahmedabad,88.8,8.5,A+ (Excellent),Merit Scholarship,Paid
+STU-2026030,Zoya Rao,Female,18,zoya.rao30@student.edu.in,+91 95842 17060,B.Sc Data Science,Semester 3,2025-07-11,Rajkot,75.0,7.71,A (Very Good),Merit Scholarship,Paid
+STU-2026031,Jiya Kapoor,Female,18,jiya.kapoor31@student.edu.in,+91 96433 76136,BBA,Semester 3,2025-07-24,Delhi NCR,94.1,9.03,O (Outstanding),None,Paid
+STU-2026032,Vikram Mukherjee,Male,24,vikram.mukherjee32@student.edu.in,+91 72995 29540,BCA,Semester 5,2024-07-23,Pune,88.1,9.32,O (Outstanding),Merit Scholarship,Paid
+STU-2026033,Neel Das,Male,19,neel.das33@student.edu.in,+91 80121 39507,B.Tech Electronics,Semester 5,2024-07-16,Mumbai,94.9,6.46,B+ (Good),None,Paid
+STU-2026034,Sneha Malhotra,Female,23,sneha.malhotra34@student.edu.in,+91 98975 21127,B.Sc Data Science,Semester 5,2024-07-28,Surat,89.5,7.85,A (Very Good),Sports Quota,Partial
+STU-2026035,Shaurya Jadhav,Male,20,shaurya.jadhav35@student.edu.in,+91 97131 54295,BCA,Semester 1,2026-07-20,Hyderabad,81.2,6.92,B+ (Good),Need-Based Aid,Pending
+STU-2026036,Rahul Reddy,Male,18,rahul.reddy36@student.edu.in,+91 75398 50036,B.Com (Hons),Semester 3,2025-07-24,Pune,83.2,7.79,A (Very Good),None,Paid
+STU-2026037,Ayaan Mehta,Male,19,ayaan.mehta37@student.edu.in,+91 88580 99315,BBA,Semester 1,2026-07-25,Vadodara,94.1,8.35,A+ (Excellent),None,Paid
+STU-2026038,Sara Kumar,Female,21,sara.kumar38@student.edu.in,+91 87036 11007,B.Tech Electronics,Semester 1,2026-07-15,Vadodara,71.8,8.38,A+ (Excellent),Need-Based Aid,Paid
+STU-2026039,Diya Mukherjee,Female,18,diya.mukherjee39@student.edu.in,+91 99326 78729,BCA,Semester 1,2026-07-20,Ahmedabad,90.1,7.2,A (Very Good),Merit Scholarship,Paid
+STU-2026040,Sneha Agarwal,Female,24,sneha.agarwal40@student.edu.in,+91 76184 76159,B.Com (Hons),Semester 1,2026-07-15,Rajkot,79.3,7.36,A (Very Good),None,Partial
+STU-2026041,Kavya Kumar,Female,24,kavya.kumar41@student.edu.in,+91 80497 76847,B.Com (Hons),Semester 3,2025-07-10,Bengaluru,96.8,7.52,A (Very Good),Need-Based Aid,Paid
+STU-2026042,Nandini Banerjee,Female,22,nandini.banerjee42@student.edu.in,+91 84109 55790,BCA,Semester 5,2024-07-12,Bengaluru,83.4,9.08,O (Outstanding),None,Paid
+STU-2026043,Prisha Pawar,Female,22,prisha.pawar43@student.edu.in,+91 86111 92774,BBA,Semester 1,2026-07-13,Surat,78.2,9.11,O (Outstanding),Merit Scholarship,Pending
+STU-2026044,Priya Chauhan,Female,22,priya.chauhan44@student.edu.in,+91 95898 91562,B.Tech Electronics,Semester 5,2024-07-27,Mumbai,77.7,6.97,B+ (Good),Need-Based Aid,Paid
+STU-2026045,Atharv Patel,Male,21,atharv.patel45@student.edu.in,+91 74829 59905,BBA,Semester 5,2024-07-26,Jaipur,65.0,9.08,O (Outstanding),None,Paid
+STU-2026046,Krishna Joshi,Male,23,krishna.joshi46@student.edu.in,+91 87505 51248,MBA,Semester 3,2025-07-14,Surat,62.8,8.96,A+ (Excellent),None,Partial
+STU-2026047,Kabir Singh,Male,24,kabir.singh47@student.edu.in,+91 94551 22849,B.Tech Electronics,Semester 1,2026-07-24,Vadodara,64.6,9.4,O (Outstanding),Merit Scholarship,Pending
+STU-2026048,Rudra Iyer,Male,21,rudra.iyer48@student.edu.in,+91 84003 75444,MBA,Semester 3,2025-07-10,Pune,93.3,8.22,A+ (Excellent),Need-Based Aid,Pending
+STU-2026049,Navya Pillai,Female,23,navya.pillai49@student.edu.in,+91 70856 18686,B.Sc Data Science,Semester 5,2024-07-21,Delhi NCR,85.2,8.92,A+ (Excellent),Merit Scholarship,Paid
+STU-2026050,Reyansh Mukherjee,Male,25,reyansh.mukherjee50@student.edu.in,+91 75440 72920,MBA,Semester 1,2026-07-19,Delhi NCR,81.2,9.03,O (Outstanding),Need-Based Aid,Partial
+STU-2026051,Parth Pillai,Male,24,parth.pillai51@student.edu.in,+91 75379 27718,BCA,Semester 5,2024-07-25,Ahmedabad,92.3,7.54,A (Very Good),Sports Quota,Paid
+STU-2026052,Rudra Desai,Male,22,rudra.desai52@student.edu.in,+91 99580 17464,B.Sc Data Science,Semester 5,2024-07-18,Mumbai,73.2,7.52,A (Very Good),Need-Based Aid,Partial
+STU-2026053,Varun Rathore,Male,18,varun.rathore53@student.edu.in,+91 77976 19280,B.Tech Electronics,Semester 1,2026-07-24,Vadodara,89.8,7.62,A (Very Good),Need-Based Aid,Paid
+STU-2026054,Vivaan Srivastava,Male,19,vivaan.srivastava54@student.edu.in,+91 84751 58932,B.Tech Electronics,Semester 1,2026-07-22,Delhi NCR,73.2,6.81,B+ (Good),Merit Scholarship,Paid
+STU-2026055,Aryan Khanna,Male,24,aryan.khanna55@student.edu.in,+91 89463 72254,MBA,Semester 3,2025-07-28,Hyderabad,63.9,7.22,A (Very Good),Merit Scholarship,Pending
+STU-2026056,Harsh Tiwari,Male,21,harsh.tiwari56@student.edu.in,+91 96399 88089,B.Tech Electronics,Semester 1,2026-07-14,Hyderabad,74.2,8.93,A+ (Excellent),Merit Scholarship,Paid
+STU-2026057,Rahul Verma,Male,21,rahul.verma57@student.edu.in,+91 80273 91670,MBA,Semester 1,2026-07-26,Vadodara,62.8,8.92,A+ (Excellent),Sports Quota,Paid
+STU-2026058,Dev Kumar,Male,19,dev.kumar58@student.edu.in,+91 73175 21531,BCA,Semester 3,2025-07-18,Mumbai,94.1,6.27,B+ (Good),None,Paid
+STU-2026059,Harsh Chatterjee,Male,22,harsh.chatterjee59@student.edu.in,+91 70408 62920,B.Com (Hons),Semester 1,2026-07-28,Surat,92.1,7.17,A (Very Good),Merit Scholarship,Partial
+STU-2026060,Sara Mukherjee,Female,20,sara.mukherjee60@student.edu.in,+91 75832 60225,B.Com (Hons),Semester 3,2025-07-15,Rajkot,79.3,7.64,A (Very Good),Merit Scholarship,Paid
+STU-2026061,Navya Jadhav,Female,19,navya.jadhav61@student.edu.in,+91 73851 76366,B.Com (Hons),Semester 1,2026-07-17,Mumbai,96.7,8.18,A+ (Excellent),Merit Scholarship,Paid
+STU-2026062,Abhishek Yadav,Male,24,abhishek.yadav62@student.edu.in,+91 74478 17941,B.Com (Hons),Semester 1,2026-07-24,Ahmedabad,93.8,8.61,A+ (Excellent),None,Partial
+STU-2026063,Aryan Menon,Male,23,aryan.menon63@student.edu.in,+91 89012 85151,B.Tech Computer Science,Semester 3,2025-07-15,Surat,88.6,8.09,A+ (Excellent),None,Pending
+STU-2026064,Rudra Sharma,Male,22,rudra.sharma64@student.edu.in,+91 84308 54983,MBA,Semester 3,2025-07-12,Mumbai,91.4,6.98,B+ (Good),None,Partial
+STU-2026065,Rishi Shinde,Male,23,rishi.shinde65@student.edu.in,+91 71615 61574,B.Com (Hons),Semester 5,2024-07-28,Vadodara,71.4,7.76,A (Very Good),Need-Based Aid,Partial
+STU-2026066,Anika Sharma,Female,18,anika.sharma66@student.edu.in,+91 90642 96068,B.Com (Hons),Semester 1,2026-07-11,Rajkot,98.8,9.17,O (Outstanding),Merit Scholarship,Paid
+STU-2026067,Komal Kapoor,Female,21,komal.kapoor67@student.edu.in,+91 98547 76956,B.Sc Data Science,Semester 1,2026-07-25,Hyderabad,76.1,7.95,A (Very Good),Merit Scholarship,Paid
+STU-2026068,Shruti Tiwari,Female,21,shruti.tiwari68@student.edu.in,+91 85078 47704,MBA,Semester 1,2026-07-15,Ahmedabad,84.2,6.61,B+ (Good),Merit Scholarship,Paid
+STU-2026069,Arjun Desai,Male,24,arjun.desai69@student.edu.in,+91 83690 61997,MBA,Semester 1,2026-07-12,Jaipur,81.4,8.59,A+ (Excellent),Merit Scholarship,Paid
+STU-2026070,Prisha Tiwari,Female,23,prisha.tiwari70@student.edu.in,+91 73374 22119,MBA,Semester 1,2026-07-23,Surat,79.7,8.26,A+ (Excellent),None,Paid
+STU-2026071,Navya Iyer,Female,22,navya.iyer71@student.edu.in,+91 74617 47855,B.Tech Computer Science,Semester 5,2024-07-22,Vadodara,81.1,9.22,O (Outstanding),Merit Scholarship,Pending
+STU-2026072,Siddharth Mishra,Male,26,siddharth.mishra72@student.edu.in,+91 84459 92184,MBA,Semester 1,2026-07-25,Vadodara,96.9,8.09,A+ (Excellent),None,Pending
+STU-2026073,Kiara Patel,Female,23,kiara.patel73@student.edu.in,+91 77505 88546,B.Tech Electronics,Semester 3,2025-07-18,Delhi NCR,76.3,8.41,A+ (Excellent),None,Partial
+STU-2026074,Sara Pandey,Female,22,sara.pandey74@student.edu.in,+91 95889 57288,B.Tech Electronics,Semester 7,2023-07-15,Hyderabad,88.9,7.75,A (Very Good),Sports Quota,Paid
+STU-2026075,Mahika Jadhav,Female,19,mahika.jadhav75@student.edu.in,+91 85878 10247,B.Tech Computer Science,Semester 3,2025-07-11,Surat,87.3,7.03,A (Very Good),Need-Based Aid,Paid
+STU-2026076,Nandini Jain,Female,26,nandini.jain76@student.edu.in,+91 80224 41385,MBA,Semester 1,2026-07-28,Surat,64.1,7.41,A (Very Good),Sports Quota,Paid
+STU-2026077,Khushi Reddy,Female,19,khushi.reddy77@student.edu.in,+91 86402 91424,B.Sc Data Science,Semester 5,2024-07-14,Pune,91.6,7.89,A (Very Good),None,Partial
+STU-2026078,Siya Mehta,Female,18,siya.mehta78@student.edu.in,+91 96391 15458,BBA,Semester 5,2024-07-28,Pune,80.2,6.88,B+ (Good),None,Paid
+STU-2026079,Manav Verma,Male,20,manav.verma79@student.edu.in,+91 79825 65569,B.Tech Electronics,Semester 5,2024-07-25,Vadodara,78.6,8.1,A+ (Excellent),Sports Quota,Paid
+STU-2026080,Ishaan Kulkarni,Male,22,ishaan.kulkarni80@student.edu.in,+91 80909 79582,B.Tech Electronics,Semester 5,2024-07-28,Hyderabad,81.2,8.74,A+ (Excellent),Need-Based Aid,Partial
+STU-2026081,Ayaan Pillai,Male,22,ayaan.pillai81@student.edu.in,+91 98175 86097,BCA,Semester 3,2025-07-14,Hyderabad,63.5,7.15,A (Very Good),None,Paid
+STU-2026082,Rohan Chauhan,Male,18,rohan.chauhan82@student.edu.in,+91 92017 53643,B.Tech Electronics,Semester 3,2025-07-22,Pune,81.1,8.21,A+ (Excellent),None,Paid
+STU-2026083,Aryan Reddy,Male,22,aryan.reddy83@student.edu.in,+91 96145 67417,MBA,Semester 1,2026-07-28,Pune,87.3,7.46,A (Very Good),None,Pending
+STU-2026084,Vihaan Bose,Male,19,vihaan.bose84@student.edu.in,+91 81981 82622,B.Tech Computer Science,Semester 7,2023-07-27,Delhi NCR,95.2,7.64,A (Very Good),Merit Scholarship,Pending
+STU-2026085,Ananya Pawar,Female,23,ananya.pawar85@student.edu.in,+91 89745 65951,B.Com (Hons),Semester 5,2024-07-14,Delhi NCR,72.8,9.42,O (Outstanding),Merit Scholarship,Partial
+STU-2026086,Karthik Chauhan,Male,22,karthik.chauhan86@student.edu.in,+91 97678 67581,B.Com (Hons),Semester 3,2025-07-13,Pune,84.4,7.21,A (Very Good),Merit Scholarship,Pending
+STU-2026087,Shaurya Tiwari,Male,22,shaurya.tiwari87@student.edu.in,+91 78526 27000,B.Tech Computer Science,Semester 7,2023-07-17,Rajkot,74.6,6.68,B+ (Good),Need-Based Aid,Paid
+STU-2026088,Kabir Kumar,Male,22,kabir.kumar88@student.edu.in,+91 85416 60766,B.Com (Hons),Semester 3,2025-07-21,Surat,80.1,7.95,A (Very Good),None,Paid
+STU-2026089,Harsh Menon,Male,22,harsh.menon89@student.edu.in,+91 91384 13877,B.Sc Data Science,Semester 5,2024-07-19,Ahmedabad,68.1,7.96,A (Very Good),Need-Based Aid,Paid
+STU-2026090,Samarth Shah,Male,21,samarth.shah90@student.edu.in,+91 88084 24450,B.Tech Electronics,Semester 7,2023-07-18,Rajkot,90.5,8.1,A+ (Excellent),Need-Based Aid,Paid
+STU-2026091,Rishi Reddy,Male,22,rishi.reddy91@student.edu.in,+91 75565 43630,B.Tech Computer Science,Semester 7,2023-07-14,Bengaluru,69.7,5.97,B (Average),Merit Scholarship,Paid
+STU-2026092,Priya Kumar,Female,21,priya.kumar92@student.edu.in,+91 73695 44723,BBA,Semester 3,2025-07-14,Vadodara,85.4,9.46,O (Outstanding),Merit Scholarship,Partial
+STU-2026093,Meera Chaudhary,Female,23,meera.chaudhary93@student.edu.in,+91 95862 39545,BBA,Semester 3,2025-07-27,Vadodara,95.8,7.69,A (Very Good),Sports Quota,Partial
+STU-2026094,Arjun Shah,Male,23,arjun.shah94@student.edu.in,+91 84030 20176,B.Sc Data Science,Semester 5,2024-07-23,Rajkot,89.5,9.07,O (Outstanding),None,Paid
+STU-2026095,Yash Desai,Male,19,yash.desai95@student.edu.in,+91 86065 36098,B.Tech Electronics,Semester 1,2026-07-21,Delhi NCR,68.8,7.25,A (Very Good),None,Paid
+STU-2026096,Pranav Patel,Male,23,pranav.patel96@student.edu.in,+91 90373 33190,B.Sc Data Science,Semester 3,2025-07-18,Hyderabad,95.8,8.01,A+ (Excellent),Need-Based Aid,Paid
+STU-2026097,Vivaan Kapoor,Male,22,vivaan.kapoor97@student.edu.in,+91 79389 98445,MBA,Semester 3,2025-07-10,Jaipur,93.1,8.22,A+ (Excellent),Merit Scholarship,Pending
+STU-2026098,Vanya Rathore,Female,20,vanya.rathore98@student.edu.in,+91 89199 55189,B.Tech Electronics,Semester 7,2023-07-18,Bengaluru,77.1,9.06,O (Outstanding),Need-Based Aid,Pending
+STU-2026099,Sara Bose,Female,24,sara.bose99@student.edu.in,+91 86538 18531,B.Sc Data Science,Semester 5,2024-07-21,Rajkot,78.5,7.28,A (Very Good),Sports Quota,Paid
+STU-2026100,Kiara Mehta,Female,18,kiara.mehta100@student.edu.in,+91 76769 36318,B.Com (Hons),Semester 3,2025-07-11,Bengaluru,67.8,7.98,A (Very Good),Sports Quota,Paid
